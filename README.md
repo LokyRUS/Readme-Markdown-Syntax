@@ -478,3 +478,28 @@ ___
 ___
 
 [GitHub Link](https://github.com/darsaveli)
+
+### Расскрывающиеся окно
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+### открытое окно
+<details open>
+<summary>I automatically open</summary>
+<br>
+Waaa, you see me. I thought I would be hidden ;p .
+</details>
+### Расскрывающееся с деревом
+<details>
+<summary>Heading</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
+</details>
