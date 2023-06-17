@@ -485,6 +485,15 @@ ___
 <br>
 This is how you dropdown.
 </details>
+
+```
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+```
+
 ### открытое окно
 <details open>
 <summary>I automatically open</summary>
